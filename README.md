@@ -1,5 +1,8 @@
 # FIB-VC
 
-Autores:  
+Métodos aprendidos en laboratorio.  
+Prácticas entregadas.
+
+_**Autores**:  
 Antonio J. Cabrera  
-Paul Gazel-Anthoine
+Paul Gazel-Anthoine_
